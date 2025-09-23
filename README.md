@@ -1,16 +1,12 @@
-# Projeto de Deep Learning para classificar imagens usando TensorFlow e Transfer Learning
+# Modelo de Deep Learning com Transfer Learning em TensorFlow
 
 # Classificador de Comidas Típicas de Pernambuco com Transfer Learning
 
-![Status](https://img.shields.io/badge/status-concluído-green)
-
-Este projeto de Deep Learning foi criado como parte de um desafio da DIO e tem como objetivo classificar duas joias da culinária local: Bolo de Rolo e Rocambole, usando a técnica de Transfer Learning com o modelo MobileNetV2.
-
-![Bolo de Rolo vs Rocambole](images/exemplo_predicao.png)
+Este projeto de Deep Learning foi desenvolvido como parte de um desafio da DIO, com o objetivo de aplicar técnicas de Transfer Learning utilizando o modelo MobileNetV2 para realizar tarefas de classificação..
 
 ## Contexto
 
-Muitas vezes confundidos por quem não é da região, o Bolo de Rolo (Patrimônio Cultural e Imaterial de Pernambuco) e o Rocambole possuem diferenças sutis. Este projeto nasceu da ideia de treinar um modelo de visão computacional para aprender a diferenciá-los, explorando o poder das redes neurais pré-treinadas para resolver um problema de nicho e com um dataset customizado.
+Este projeto foi desenvolvido com o objetivo de treinar um modelo de visão computacional utilizando redes neurais pré-treinadas, aplicando técnicas de Transfer Learning para resolver um problema de classificação em um contexto específico, com uso de um dataset customizado.
 
 ## Tecnologias Utilizadas
 
@@ -21,13 +17,7 @@ Muitas vezes confundidos por quem não é da região, o Bolo de Rolo (Patrimôni
 
 ## Resultados
 
-O modelo alcançou uma acurácia de validação de **96%** após 10 épocas de treinamento, mostrando-se altamente eficaz na distinção das duas classes.
-
-#### **Acurácia ao Longo das Épocas**
-![Gráfico de Acurácia](images/grafico_acuracia.png)
-
-#### **Perda (Loss) ao Longo das Épocas**
-![Gráfico de Perda](images/grafico_perda.png)
+O modelo atingiu uma acurácia de validação de **96%** após 10 épocas de treinamento, demonstrando alta eficácia na tarefa de classificação.
 
 ## Como Utilizar o Projeto
 
