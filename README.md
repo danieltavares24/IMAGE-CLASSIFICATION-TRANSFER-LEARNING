@@ -8,18 +8,18 @@ Este projeto de Deep Learning foi criado como parte de um desafio da DIO e tem c
 
 ![Bolo de Rolo vs Rocambole](images/exemplo_predicao.png)
 
-## 🎯 Contexto
+## Contexto
 
 Muitas vezes confundidos por quem não é da região, o Bolo de Rolo (Patrimônio Cultural e Imaterial de Pernambuco) e o Rocambole possuem diferenças sutis. Este projeto nasceu da ideia de treinar um modelo de visão computacional para aprender a diferenciá-los, explorando o poder das redes neurais pré-treinadas para resolver um problema de nicho e com um dataset customizado.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** Python 3
 - **Frameworks:** TensorFlow, Keras
 - **Bibliotecas:** Matplotlib, NumPy
 - **Ambiente:** Google Colab (GPU)
 
-## 📈 Resultados
+## Resultados
 
 O modelo alcançou uma acurácia de validação de **96%** após 10 épocas de treinamento, mostrando-se altamente eficaz na distinção das duas classes.
 
@@ -29,18 +29,18 @@ O modelo alcançou uma acurácia de validação de **96%** após 10 épocas de t
 #### **Perda (Loss) ao Longo das Épocas**
 ![Gráfico de Perda](images/grafico_perda.png)
 
-## 📂 Como Utilizar o Projeto
+## Como Utilizar o Projeto
 
     ```
 1.  Abra o notebook `classificador_de_imagens.ipynb` no Google Colab ou Jupyter.
 2.  Execute as células para treinar o modelo e ver os resultados.
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 - [ ] Implementar *Fine-Tuning* para tentar melhorar ainda mais a acurácia.
 - [ ] Fazer o deploy do modelo usando Streamlit ou Flask para criar uma aplicação web interativa.
 - [ ] Aumentar o dataset com mais imagens e classes de outras comidas típicas.
 
-## 👨‍💻 Autor
+## Autor
 
 **Daniel Tavares de França**
