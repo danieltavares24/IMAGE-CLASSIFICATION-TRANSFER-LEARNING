@@ -1,6 +1,6 @@
 # Projeto de Deep Learning para classificar imagens usando TensorFlow e Transfer Learning
 
-# 🤖 Classificador de Comidas Típicas de Pernambuco com Transfer Learning
+# Classificador de Comidas Típicas de Pernambuco com Transfer Learning
 
 ![Status](https://img.shields.io/badge/status-concluído-green)
 
