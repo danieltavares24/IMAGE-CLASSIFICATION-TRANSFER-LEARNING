@@ -1,7 +1,5 @@
 # Modelo de Deep Learning com Transfer Learning em TensorFlow
 
-# Classificador de Comidas Típicas de Pernambuco com Transfer Learning
-
 Este projeto de Deep Learning foi desenvolvido como parte de um desafio da DIO, com o objetivo de aplicar técnicas de Transfer Learning utilizando o modelo MobileNetV2 para realizar tarefas de classificação..
 
 ## Contexto
